@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Dorivis">
-    <img src="logo.png" height="250" width="250" alt="Unform" />
+  <a href="https://github.com/leotaborda">
+    <img src="snake-github.svg" height="250" width="250" alt="Unform" />
   </a>
 </p>
 
@@ -12,27 +12,19 @@
 
 
 
-## Um pouquinho sobre mim
+## Sobre Mim!
 
-Meu nome é Leonardo Taborda de Oliveira, tenho 19 anos e moro em Hortolândia. Atualmente, sou aluno do SENAI, onde estou cursando Desenvolvimento de Sistemas. Trabalho na Bosch Campinas como Aprendiz de Soluções Digitais, uma experiência que tem sido enriquecedora para meu crescimento profissional.
+Meu nome é Leonardo Taborda de Oliveira, tenho 19 anos e moro em Hortolândia. Estou sempre disposto a aprender coisas novas e a continuar evoluindo constantemente. Acredito que o crescimento pessoal e profissional é um processo contínuo, por isso estou sempre em busca de novas oportunidades de aprendizado que me ajudem a ser melhor a cada dia.
 
-Concluí o ensino médio junto com um curso Técnico em Informática no Unasp Campus Hortolândia, o que me proporcionou uma base sólida em tecnologia. Além disso, estou cursando Gestão de Energia e Eficiência Energética na Fatec Campinas, onde estou ampliando meus conhecimentos em um campo que une tecnologia e sustentabilidade.
-
-- 🔭 Faço parte da equipe de professores do SENAI
-- 👨‍🎓 Sou formado em Bacharel em Ciencia da Computação pela UNICAMP, e em técnico de Informática pelo COTUCA
-- 📚 Estudo sobre assuntos diversos de Ciência de Dados
-- 👯 Estou procurando colaborar em desenvolver meus alunos e em aprimorar meus conhecimentos em Ciencia de Dados
-- 🤔 Estou procurando algum cargo como Cientista de Dados
-- 💬 Pergunte-me sobre o que tiver duvida.
-- ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
-
+- 💻 Curso Desenvolvimento de Sistemas no Senai "Roberto Mange"
+- 👨‍💻 Sou Aprendiz de Soluções Digitais na Bosch Campinas
+- 🎓 Formado como Técnico de Informática integrado ao Ensino Médio no Unasp Campus Hortolândia
+- ⚡ Faço faculdade de Gestão de Energia e Eficiência Energética na Fatec Campinas
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> </code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -41,7 +33,7 @@ Concluí o ensino médio junto com um curso Técnico em Informática no Unasp Ca
           
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](mailto:dorival.jrr@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/dorival-alves-804558127/) 
+📫 Você pode falar comigo pelo [Email](mailto:leo.taboorda@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/leonardo-taborda-de-oliveira-361019255) 
 </br>
 
 
