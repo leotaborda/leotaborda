@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/leotaborda">
-    <img src="snake-github.svg" height="250" width="250" alt="Unform" />
+    <img src="mario.gif" height="250" width="250" alt="Unform" />
   </a>
 </p>
 
