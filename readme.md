@@ -11,14 +11,14 @@
   
   <!-- Social Media Badges Updated -->
   <p>
-    <a href="https://www.linkedin.com/in/leonardo-taborda-de-oliveira-361019255" target="_blank">
+    <a href="[https://www.linkedin.com/in/leonardo-taborda-de-oliveira-361019255](https://www.linkedin.com/in/leonardo-taborda-de-oliveira-361019255/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:leo.taboorda@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/leotaborda?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -33,13 +33,13 @@
 <!-- About Me Section Enhanced -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mim
 
-> 👨‍💻 **Desenvolvedor em ascensão** | 🔋 **Entusiasta de tecnologia sustentável** | 🌱 **Aprendiz contínuo**
+> 👨‍💻 **Desenvolvedor FrontEmd** | 🔋 **Entusiasta em Sustentabilidade** | 🌱 **Aprendiz Bosch Campinas**
 
 Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e estou baseado em Hortolândia-SP. Sou apaixonado por criar soluções tecnológicas que impactam positivamente o mundo. Minha trajetória única combina desenvolvimento de sistemas com conhecimentos em gestão energética, o que me permite abordar desafios tecnológicos com uma perspectiva sustentável e inovadora.
 
 ### O que me move:
 - Desenvolvimento de soluções tecnológicas eficientes
-- Aplicação de princípios de sustentabilidade em projetos de TI
+- Aplicação de princípios de sustentabilidade em projetos
 - Impacto positivo através da tecnologia
 
 <!-- Tech Stack Section Revamped -->
@@ -149,7 +149,7 @@ Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e estou baseado em Hor
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/idea-sharing.png" width="30"/>
-        <br />Resolução de Problemas
+        <br />Soluções de Problemas
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/reading.png" width="30"/>
@@ -158,7 +158,7 @@ Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e estou baseado em Hor
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/time-management.png" width="30"/>
+        <img src="https://img.icons8.com/?size=100&id=NcBEwbInzQaV&format=png&color=000000" width="30"/>
         <br />Gestão de Tempo
       </td>
       <td align="center">
@@ -167,7 +167,7 @@ Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e estou baseado em Hor
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/innovation.png" width="30"/>
-        <br />Pensamento Inovador
+        <br />Criatividade
       </td>
     </tr>
   </table>
@@ -176,11 +176,11 @@ Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e estou baseado em Hor
 <!-- Future Goals Section Expanded -->
 ## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28"> Objetivos
 
-Estou determinado a me tornar um desenvolvedor full-stack com especialização em tecnologias sustentáveis. Meus principais objetivos incluem:
+Estou determinado a me tornar um desenvolvedor Front-End e UX/UI Design. Meus principais objetivos incluem:
 
 - 🚀 Aprofundar conhecimentos em arquiteturas modernas de software
 - 🌱 Desenvolver projetos que integrem tecnologia e sustentabilidade
-- 📊 Especializar-me em otimização energética de sistemas de informação
+- 📊 Especializar-me em Design com uso de ferramentas mais profissionais
 - 🌐 Contribuir para projetos open-source com impacto ambiental positivo
 - 📱 Criar aplicações que incentivem práticas sustentáveis
 
