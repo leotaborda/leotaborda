@@ -11,7 +11,7 @@
   
   <!-- Social Media Badges Updated -->
   <p>
-    <a href="[https://www.linkedin.com/in/leonardo-taborda-de-oliveira-361019255](https://www.linkedin.com/in/leonardo-taborda-de-oliveira-361019255/)" target="_blank">
+    <a href="https://www.linkedin.com/in/leonardo-taborda-de-oliveira-361019255" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:leo.taboorda@gmail.com">
