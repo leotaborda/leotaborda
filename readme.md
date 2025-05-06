@@ -213,4 +213,8 @@ Estou determinado a me tornar um desenvolvedor Front-End e UX/UI Design. Meus pr
 </div>
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/leotaborda/leotaborda/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake.svg">
+  <img alt="Cobra comendo os commits" src="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake.svg">
+</picture>
