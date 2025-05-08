@@ -81,7 +81,7 @@ Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e estou baseado em Hor
       <h3>🎓 Formação Acadêmica</h3>
       <ul>
         <li>
-          <img align="left" width="20" height="20" src="https://img.icons8.com/color/48/000000/energy.png"/>
+          <img align="left" width="20" height="20" src="https://img.icons8.com/?size=100&id=119156&format=png&color=000000"/>
           <b>Gestão de Energia e Eficiência Energética</b><br/>
           <i>Fatec Campinas | Em andamento</i>
         </li>
@@ -101,7 +101,7 @@ Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e estou baseado em Hor
       <h3>💼 Experiência Profissional</h3>
       <ul>
         <li>
-          <img align="left" width="20" height="20" src="https://img.icons8.com/color/48/000000/laptop-coding.png"/>
+          <img align="left" width="20" height="20" src="https://img.icons8.com/?size=100&id=Rnf3thchw2S4&format=png&color=000000"/>
           <b>Aprendiz de Soluções Digitais</b><br/>
           <i>Bosch Campinas | Atual</i><br/>
           <ul>
