@@ -33,7 +33,7 @@
 <!-- About Me Section Enhanced -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mim
 
-> 👨‍💻 **Desenvolvedor FrontEmd** | 🔋 **Entusiasta em Sustentabilidade** | 🌱 **Aprendiz Bosch Campinas**
+> 👨‍💻 **Desenvolvedor FrontEmd** | 🔋 **Entusiasta em Sustentabilidade** | 💻 **Aprendiz Bosch Campinas**
 
 Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e estou baseado em Hortolândia-SP. Sou apaixonado por criar soluções tecnológicas que impactam positivamente o mundo. Minha trajetória única combina desenvolvimento de sistemas com conhecimentos em gestão energética, o que me permite abordar desafios tecnológicos com uma perspectiva sustentável e inovadora.
 
