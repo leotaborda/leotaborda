@@ -86,9 +86,9 @@ Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e sou Desenvolvedor Fr
       <ul>
         <li><b>Meio Oficial em Soluções Digitais</b> - Bosch Campinas <i>(Atual)</i>
           <ul>
-            <li>Atuação no desenvolvimento de soluções front-end modernas</li>
+            <li>Atuação no desenvolvimento front-end</li>
             <li>Criação e integração de modelos 3D com páginas web</li>
-            <li>Prototipação de interfaces responsivas com foco em experiência do usuário</li>
+            <li>Prototipação de interfaces com foco em experiência do usuário</li>
           </ul>
         </li>
         <li><b>Aprendiz de Soluções Digitais</b> - Bosch Campinas <i>(Anterior)</i>
