@@ -30,13 +30,13 @@
 <!-- Sobre Mim -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mim
 
-Olá! Sou **Leonardo Taborda de Oliveira**, tenho 19 anos e sou Desenvolvedor Front-End apaixonado por criar experiências digitais modernas e impactantes. Atualmente atuo como **Meio Oficial em Soluções Digitais na Bosch Campinas**, e venho de uma trajetória sólida como **Aprendiz de Soluções Digitais**, onde desenvolvi bases sólidas em UI/UX e integração de sistemas.
+Olá! Me chamo **Leonardo Taborda de Oliveira**, tenho 19 anos e sou um **Design** que gosta de transformar ideias em experiências digitais inovadoras. Atualmente trabalho como Meio Oficial em Soluções Digitais na Bosch Campinas, onde atuo com foco em Desenvolvimento Front-End, Modelagens 3D e Experiências UI/UX Design. Antes disso, tive uma base sólida como Aprendiz de Soluções Digitais, onde mergulhei no universo de UI/UX Design e participei de projetos com APIs, IA Generativas, automações e design centrado no usuário.
 
 ### 🎯 O que me motiva:
 - Desenvolver interfaces interativas e acessíveis
 - Aprender novas stacks e frameworks
-- Pensar soluções com foco em usabilidade e performance
-- Criar projetos com um visual moderno e clean
+- Pensar soluções 
+- Criar projetos com um visual moderno
 
 <!-- Tech Stack -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
