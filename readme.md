@@ -108,7 +108,6 @@ Olá! Me chamo **Leonardo Taborda de Oliveira**, tenho 20 anos e sou um **Design
 
 <div align="center">
   <a href="https://github.com/leotaborda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leotaborda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotaborda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
