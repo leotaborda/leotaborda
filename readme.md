@@ -1,6 +1,6 @@
 <!-- Animated Header Redesigned -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Leonardo%20Taborda&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=UI/UX%20Design%20|%20Front-End%20Developer&descAlignY=58&descSize=20" width="100%" alt="Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14332b,50:43a38a,100:14332b&height=230&section=header&text=Leonardo%20Taborda&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=UI/UX%20Designer%20|%20Front-End%20Developer&descAlignY=58&descSize=20" width="100%" alt="Profile Banner" />
 </div>
 
 <!-- Bio & Social -->
@@ -139,7 +139,7 @@ Olá! Me chamo **Leonardo Taborda de Oliveira**, tenho 20 anos e sou um **Design
 
 <!-- Footer Animated -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14332b,50:43a38a,100:14332b&height=120&section=footer" width="100%" />
 </div>
 
 <!-- Snake Animation -->
