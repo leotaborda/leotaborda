@@ -8,7 +8,7 @@
   <p><i>🚀 Inovando através da tecnologia, um commit por vez 🚀</i></p>
   <img src="https://komarev.com/ghpvc/?username=leotaborda&style=flat-square&color=0088cc" alt="Profile views"/>
   <p>
-    <a href="https://www.linkedin.com/in/leonardo-taborda-de-oliveira-361019255" target="_blank">
+    <a href="https://www.linkedin.com/in/leotaborda/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:leo.taboorda@gmail.com">
