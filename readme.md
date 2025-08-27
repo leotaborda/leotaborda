@@ -121,10 +121,10 @@ Olá! Me chamo **Leonardo Taborda de Oliveira**, tenho 20 anos e sou um **Design
 
 <div align="center">
   <a href="https://github.com/leotaborda/AppNetflix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=AppNetflix&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=event-tracker-app&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/leotaborda/AppCompras">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=AppCompras&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=luz-e-cena-cinema&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
