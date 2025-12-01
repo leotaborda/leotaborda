@@ -5,7 +5,7 @@
 
 <!-- Bio & Social -->
 <div align="center">
-  <p><i>🚀 Inovando através da tecnologia, um commit por vez 🚀</i></p>
+  <p><i>Inovando através da tecnologia, um commit por vez</i></p>
   <img src="https://komarev.com/ghpvc/?username=leotaborda&style=flat-square&color=0088cc" alt="Profile views"/>
   <p>
     <a href="https://www.linkedin.com/in/leotaborda/" target="_blank">
@@ -15,7 +15,10 @@
       <img src="https://img.shields.io/badge/Email-%23D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/leotaborda?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-%234A278F.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://medium.com/@leotaborda" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-%23181717.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
   </p>
 </div>
@@ -64,50 +67,6 @@ Olá! Me chamo **Leonardo Taborda de Oliveira**, Sou **Designer** e **Desenvolve
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-</div>
-
-<!-- Formação & Experiência -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Formação & Experiência
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Formação</h3>
-      <ul>
-        <li><b>Gestão de Energia e Eficiência Energética</b> - Fatec Campinas <i>(Em andamento)</i></li>
-        <li><b>Desenvolvimento de Sistemas</b> - Senai "Roberto Mange" <i>(Concluído)</i></li>
-        <li><b>Técnico em Informática</b> - Unasp Hortolândia <i>(Concluído)</i></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Experiência</h3>
-      <ul>
-        <li><b>Meio Oficial em Soluções Digitais</b> - Bosch Campinas <i>(Atual)</i>
-          <ul>
-            <li>Atuação no desenvolvimento front-end</li>
-            <li>Criação e integração de modelos 3D com páginas web</li>
-            <li>Prototipação de interfaces com foco em experiência do usuário</li>
-          </ul>
-        </li>
-        <li><b>Aprendiz de Soluções Digitais</b> - Bosch Campinas <i>(Anterior)</i>
-          <ul>
-            <li>Desenvolvimento de aplicações web com frameworks JavaScript</li>
-            <li>Exploração prática de princípios de UI/UX design</li>
-            <li>Integração de APIs e automações internas</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Insights
-
-<div align="center">
-  <a href="https://github.com/leotaborda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotaborda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
 </div>
 
 <!-- Projetos -->
