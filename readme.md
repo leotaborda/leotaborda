@@ -69,18 +69,6 @@ Olá! Me chamo **Leonardo Taborda de Oliveira**, Sou **Designer** e **Desenvolve
 
 </div>
 
-<!-- Projetos -->
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"> Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/leotaborda/event-tracker-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=event-tracker-app&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/leotaborda/luz-e-cena-cinema">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=luz-e-cena-cinema&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
 <!-- Contato -->
 ## <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="28"> Contato
 
