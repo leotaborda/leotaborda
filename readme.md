@@ -1,95 +1,110 @@
-<!-- Animated Header Redesigned -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14332b,50:43a38a,100:14332b&height=230&section=header&text=Leonardo%20Taborda&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=UI/UX%20Designer%20|%20Front-End%20Developer&descAlignY=58&descSize=20" width="100%" alt="Profile Banner" />
-</div>
+  
+# 👋 Hey, I'm Leonardo Taborda
 
-<!-- Bio & Social -->
-<div align="center">
-  <p><i>Inovando através da tecnologia, um commit por vez</i></p>
-  <img src="https://komarev.com/ghpvc/?username=leotaborda&style=flat-square&color=0088cc" alt="Profile views"/>
-  <p>
-    <a href="https://www.linkedin.com/in/leotaborda/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:leo.taboorda@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%23D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/leotaborda?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%234A278F.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://medium.com/@leotaborda" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-%23181717.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-  </p>
-</div>
+### Front-End Developer • UI/UX Designer • 3D Modeler
 
-<!-- Avatar com Estilo -->
-<div align="center">
-  <a href="https://github.com/leotaborda">
-    <img src="mario.gif" height="200" width="200" alt="Leonardo Taborda" style="border-radius: 50%; border: 5px solid #302b63; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5);" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leotaborda/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:leo.taboorda@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100F?style=flat&logo=medium)](https://medium.com/@leotaborda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-00C7B7?style=flat&logo=google-chrome)](https://portifolio-leonardo-taborda-linkedi.vercel.app/)
 
-<!-- Sobre Mim -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mim
-
-Olá! Me chamo **Leonardo Taborda de Oliveira**, Sou **Designer** e **Desenvolvedor Front End** que gosta de transformar ideias em experiências digitais inovadoras. Atualmente trabalho como Meio Oficial em Soluções Digitais na **Bosch Campinas**, onde atuo com foco em Desenvolvimento Front-End, Modelagens 3D e Experiências UI/UX Design. Antes disso, tive uma base sólida como Aprendiz de Soluções Digitais, onde mergulhei no universo de UI/UX Design e participei de projetos com APIs, IA Generativas, automações e design centrado no usuário.
-
-<!-- Tech Stack -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
-
-<div align="center">
-
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-
-### FrontEnd
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SASS](https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=sass&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Ferramentas
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-EF6C55?style=for-the-badge&logo=blender&logoColor=white)
-
-### Aprendendo
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+<img src="mario.gif" width="200" height="200" alt="Leonardo Taborda" style="border-radius: 50px;" />
 
 </div>
 
-<!-- Contato -->
-## <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="28"> Contato
+---
+
+## About Me
+
+Front-End Developer and UI/UX Designer at **Bosch Campinas**, crafting innovative digital experiences with a focus on clean code, user-centered design, and modern web technologies. I transform ideas into intuitive, accessible, and performant interfaces.
+
+```javascript
+const leotaborda = {
+  role: "Mid-Level Digital Solutions Developer",
+  location: "Campinas-SP, Brazil",
+  focus: ["Front-End Development", "UI/UX Design", "3D Modeling"],
+  currentlyLearning: ["Next.js", "Flutter", "Vue.js", "Node.js"],
+  interests: ["Generative AI", "Web Animations", "Design Systems"],
+  motto: "Innovating through technology, one commit at a time"
+};
+```
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <p>Vamos conectar e compartilhar conhecimento!</p>
-  <a href="mailto:leo.taboorda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-leo.taboorda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-taborda-de-oliveira-361019255">
-    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Taborda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+### Core Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+
+### Design & Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
 </div>
 
-<!-- Footer Animated -->
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14332b,50:43a38a,100:14332b&height=120&section=footer" width="100%" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotaborda&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leotaborda&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leotaborda&theme=react&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
+
+</div>
+
+---
+
+## Featured Projects
+
+Coming soon! Check out my [repositories](https://github.com/leotaborda?tab=repositories) to see what I'm building.
+
+---
+
+## Let's Connect
+
+I'm always open to collaborating on interesting projects or having a chat about front-end development, design, and technology!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Leonardo_Taborda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leotaborda/)
+[![Email](https://img.shields.io/badge/-leo.taboorda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.taboorda@gmail.com)
+[![Medium](https://img.shields.io/badge/-@leotaborda-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leotaborda)
+
+</div>
+
+---
+
+<div align="center">
+  
+### "It works on my machine"
+
+![Profile Views](https://komarev.com/ghpvc/?username=leotaborda&style=flat&color=00C7B7)
+
 </div>
 
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake.svg">
-  <img alt="Cobra comendo os commits" src="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake-dark.svg">
 </picture>
