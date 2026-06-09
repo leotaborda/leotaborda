@@ -21,7 +21,7 @@ Front-End Developer and UI/UX Designer at **Bosch Campinas**, crafting innovativ
 
 ```javascript
 const leotaborda = {
-  role: "Mid-Level Digital Solutions Developer",
+  role: "FrontEnd Developer",
   location: "Campinas-SP, Brazil",
   focus: ["Front-End Development", "UI/UX Design", "3D Modeling"],
   currentlyLearning: ["Next.js", "Flutter", "Vue.js", "Node.js"],
