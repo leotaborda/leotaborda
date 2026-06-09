@@ -24,7 +24,7 @@ const leotaborda = {
   role: "FrontEnd Developer",
   location: "Campinas-SP, Brazil",
   focus: ["Front-End Development", "UI/UX Design", "3D Modeling"],
-  currentlyLearning: ["Next.js", "Flutter", "Vue.js", "Node.js"],
+  currentlyLearning: ["Angular", "React", "Typescript", "Node.js"],
   interests: ["Generative AI", "Web Animations", "Design Systems"],
   motto: "Innovating through technology, one commit at a time"
 };
