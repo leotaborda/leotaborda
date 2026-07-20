@@ -1,110 +1,131 @@
 <div align="center">
-  
-# 👋 Hey, I'm Leonardo Taborda
 
-### Front-End Developer • UI/UX Designer • 3D Modeler
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:7F5AF0&height=180&section=header&text=Leonardo%20Taborda&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%203D%20Modeler&descAlignY=58&descSize=17" alt="Leonardo Taborda header" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leotaborda/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:leo.taboorda@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Follow-12100F?style=flat&logo=medium)](https://medium.com/@leotaborda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-00C7B7?style=flat&logo=google-chrome)](https://portifolio-leonardo-taborda-linkedi.vercel.app/)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C7B7&center=true&vCenter=true&width=720&lines=Building+interfaces+that+feel+as+good+as+they+look.;Front-End+%2B+UI%2FUX+%2B+3D.;Turning+ideas+into+interactive+experiences." alt="Typing SVG" />
+</a>
 
-<img src="mario.gif" width="200" height="200" alt="Leonardo Taborda" style="border-radius: 50px;" />
+<br/>
+
+<a href="https://www.linkedin.com/in/leotaborda/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C7B7" alt="LinkedIn" />
+</a>
+<a href="mailto:leo.taboorda@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C7B7" alt="Email" />
+</a>
+<a href="https://medium.com/@leotaborda">
+  <img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=00C7B7" alt="Medium" />
+</a>
+<a href="https://portifolio-leonardo-taborda-linkedi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00C7B7" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<img src="mario.gif" width="170" alt="Mario animation" />
 
 </div>
 
----
+## `> about_me`
 
-## About Me
+I’m a **Front-End Developer and UI/UX Designer at Bosch Campinas**, focused on turning ideas into intuitive, accessible, and polished digital experiences.
 
-Front-End Developer and UI/UX Designer at **Bosch Campinas**, crafting innovative digital experiences with a focus on clean code, user-centered design, and modern web technologies. I transform ideas into intuitive, accessible, and performant interfaces.
+I like the space where **code, design, motion, and 3D** meet — building interfaces that are not only functional, but also memorable to use.
 
-```javascript
+```ts
 const leotaborda = {
-  role: "FrontEnd Developer",
-  location: "Campinas-SP, Brazil",
-  focus: ["Front-End Development", "UI/UX Design", "3D Modeling"],
-  currentlyLearning: ["Angular", "React", "Typescript", "Node.js"],
-  interests: ["Generative AI", "Web Animations", "Design Systems"],
-  motto: "Innovating through technology, one commit at a time"
+  location: "Campinas, SP — Brazil",
+  roles: ["Front-End Developer", "UI/UX Designer", "3D Modeler"],
+  learning: ["Angular", "React", "TypeScript", "Node.js"],
+  exploring: ["Generative AI", "Web Animations", "Design Systems"],
+  mindset: "Create. Test. Refine. Ship."
 };
 ```
 
 ---
 
-## Tech Stack
+## `> toolbox`
 
 <div align="center">
 
-### Core Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,html,css,sass,python,nodejs,figma,blender,git,vscode&perline=7" alt="Technology stack" />
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+<br/><br/>
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
-![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+`Front-End` · `UI/UX` · `3D` · `Motion` · `Prototyping` · `Design Systems`
 
 </div>
 
 ---
 
-## GitHub Stats
+## `> selected_work`
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotaborda&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leotaborda&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7)
+<a href="https://github.com/leotaborda/3d-website">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=3d-website&theme=github_dark_dimmed&hide_border=true&title_color=00C7B7&icon_color=7F5AF0" alt="3D Website repository" />
+</a>
+<a href="https://github.com/leotaborda/ARQVITA_architecture">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=ARQVITA_architecture&theme=github_dark_dimmed&hide_border=true&title_color=00C7B7&icon_color=7F5AF0" alt="ARQVITA Architecture repository" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leotaborda&theme=react&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
+<a href="https://github.com/leotaborda/logitech_keyboard">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=logitech_keyboard&theme=github_dark_dimmed&hide_border=true&title_color=00C7B7&icon_color=7F5AF0" alt="Logitech Keyboard repository" />
+</a>
+<a href="https://github.com/leotaborda/portfolio-leotaborda">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=leotaborda&repo=portfolio-leotaborda&theme=github_dark_dimmed&hide_border=true&title_color=00C7B7&icon_color=7F5AF0" alt="Portfolio repository" />
+</a>
+
+<br/>
+
+<a href="https://github.com/leotaborda?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20all%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=00C7B7" alt="Explore all repositories" />
+</a>
 
 </div>
 
 ---
 
-## Featured Projects
-
-Coming soon! Check out my [repositories](https://github.com/leotaborda?tab=repositories) to see what I'm building.
-
----
-
-## Let's Connect
-
-I'm always open to collaborating on interesting projects or having a chat about front-end development, design, and technology!
+## `> github_snapshot`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Leonardo_Taborda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leotaborda/)
-[![Email](https://img.shields.io/badge/-leo.taboorda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.taboorda@gmail.com)
-[![Medium](https://img.shields.io/badge/-@leotaborda-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@leotaborda)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leotaborda&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=00C7B7&icon_color=7F5AF0&rank_icon=github" alt="Leonardo's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotaborda&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=00C7B7" alt="Leonardo's top languages" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=leotaborda&style=flat-square&color=00C7B7&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
+## `> contribution_mode`
+
 <div align="center">
-  
-### "It works on my machine"
 
-![Profile Views](https://komarev.com/ghpvc/?username=leotaborda&style=flat&color=00C7B7)
-
-</div>
-
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/leotaborda/leotaborda/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let’s build something people enjoy using.
+
+Open to conversations about **front-end, UI/UX, creative development, 3D, and technology**.
+
+<sub>“It works on my machine.” — every developer, eventually.</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:00C7B7&height=110&section=footer" alt="Footer" />
+
+</div>
