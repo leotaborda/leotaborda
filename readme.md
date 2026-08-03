@@ -63,12 +63,26 @@ const leotaborda = {
 ## GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotaborda&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leotaborda&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7)
+<a href="https://github.com/leotaborda"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leotaborda&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9"/> </a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leotaborda&theme=react&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7)
+<a href="https://github.com/leotaborda"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotaborda&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9"/> </a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=leotaborda&theme=react&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=leotaborda&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leotaborda&bg_color=0D1117&color=C9D1D9&line=00C7B7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leotaborda&theme=github_dark" alt="GitHub Profile Summary"/>
 
 </div>
 
