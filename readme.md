@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Leonardo Taborda
 
-### Front-End Developer • UI/UX Designer • 3D Modeler
+### Software Developer • UI/UX Designer • 3D Modeler
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leotaborda/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:leo.taboorda@gmail.com)
@@ -17,14 +17,14 @@
 
 ## About Me
 
-Front-End Developer and UI/UX Designer at **Bosch Campinas**, crafting innovative digital experiences with a focus on clean code, user-centered design, and modern web technologies. I transform ideas into intuitive, accessible, and performant interfaces.
+Software Developer and UI/UX Designer at **Bosch Campinas**, crafting innovative digital experiences with a focus on clean code, user-centered design, and modern web technologies. I transform ideas into intuitive, accessible, and performant interfaces.
 
 ```javascript
 const leotaborda = {
-  role: "FrontEnd Developer",
+  role: "Software Developer",
   location: "Campinas-SP, Brazil",
-  focus: ["Front-End Development", "UI/UX Design", "3D Modeling"],
-  currentlyLearning: ["Angular", "React", "Typescript", "Node.js"],
+  focus: ["Software Development", "UI/UX Design", "3D Modeling"],
+  currentlyLearning: ["Angular", "React", "Typescript", "Node.js", "SQL", "Python"],
   interests: ["Generative AI", "Web Animations", "Design Systems"],
   motto: "Innovating through technology, one commit at a time"
 };
